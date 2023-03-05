@@ -1,8 +1,10 @@
-a=$((RANDOM%1+10))
-b=$((RANDOM%2+10))
-c=$((RANDOM%3+10))
-d=$((RANDOM%4+10))
-e=$((RANDOM%5+10))
+#Write a program that reads 5 Random 2 Digit values , then find their sum and the average
+
+a=$((RANDOM%90+10))
+b=$((RANDOM%90+10))
+c=$((RANDOM%90+10))
+d=$((RANDOM%90+10))
+e=$((RANDOM%90+10))
 echo $a
 echo $b
 echo $c

@@ -1,2 +1,2 @@
-num=$((RANDOM%4))
+num=$((RANDOM%10))
 echo $num
